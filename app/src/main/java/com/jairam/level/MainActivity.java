@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         myweb = (WebView) findViewById(R.id.myViewId);
         WebSettings mysettings= myweb.getSettings();
         mysettings.setJavaScriptEnabled(true);
-        myweb.loadUrl("http://google.com");
+        myweb.loadUrl("http://tbboard.in/Reservoir/ReservoirDataViewa.php");
         myweb.setWebViewClient(new WebViewClient());
     }
 
