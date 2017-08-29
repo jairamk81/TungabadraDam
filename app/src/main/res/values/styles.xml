@@ -11,7 +11,7 @@
 
     </style> -->
 
-    <style name="Jai" parent="Theme.AppCompat.Light.DarkActionBar" >-->
+    <style name="Jai" parent="Theme.AppCompat.Light.NoActionBar" >-->
         <item name="android:colorForeground">@android:color/holo_blue_dark</item>
         <item name="android:navigationBarColor">?android:attr/textColorLink</item>
         <item name="android:textColorPrimary">@android:color/black</item>
